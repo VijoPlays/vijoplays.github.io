@@ -1,6 +1,6 @@
 # Welcome to my GitHub hosted web page
 
-To see a programmer profile, check out the sub-path: https://vijoplays.github.io/profile/.
+To see a programmer profile, check out the sub-path: [https://vijoplays.github.io/profile/](https://vijoplays.github.io/profile/).
 
 ## Welcome to GitHub Pages
 
