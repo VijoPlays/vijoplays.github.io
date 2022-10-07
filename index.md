@@ -1,3 +1,7 @@
+# Welcome to my GitHub hosted web page
+
+To see a programmer profile, check out the sub-path: https://vijoplays.github.io/profile/.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/VijoPlays/vijoplays.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
